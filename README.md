@@ -3,7 +3,7 @@
 
 # EDUCATION:
 ## Quinnipiac University	
-Bachelor of Science, Computer Science, GPA: 3.02
+- Bachelor of Science, Computer Science, GPA: 3.02
 
 # SKILLS: 
 ## Programming
