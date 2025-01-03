@@ -8,14 +8,16 @@
 # SKILLS: 
 ## Programming
 - Java, Javascript
-## Applications
+# Applications
 - GitHub, Eclipse, VSCode, Microsoft Excel, Google Drive
 
 # COURSES:
 - Object Oriented Design, Data Structures, Algorithms Design and Analysis, Programming and Problem Solving, Data Structure & Abstraction, Discrete Mathematics, Intro Software Development
 
 # ENGINEERING PROJECTS:
-## Software Development Project: Developed a platform game in Java with a team of 5. 
+## Software Development Project 
+- Developed a platform game in Java with a team of 5.
+  
 - Designed and implemented sprite movement and location mechanics, ensuring smooth animations and precise collision detection.
 
 - Utilized object-oriented programming principles to create efficient and modular code for game functionality.
@@ -27,7 +29,7 @@
 - Gained experience in managing game states and event handling to improve gameplay flow. 
 
 # Java Projects:
-Developed a mock matching card game using card graphics provided by Eclipse IDE 2024
+- Developed a mock matching card game using card graphics provided by Eclipse IDE 2024
 
 # WORK EXPERIENCE:
 ## Richmond Hardware 
@@ -36,5 +38,6 @@ Developed a mock matching card game using card graphics provided by Eclipse IDE 
 - Assisted customers with product inquiries and solutions.
 - Operated tools for cutting glass, keys, and shades with precision.
 - Enhanced multitasking and communication skills in a fast-paced environment.
+
 # ACHIEVEMENTS:
 - Quinnipiac University Dean's Scholarship
