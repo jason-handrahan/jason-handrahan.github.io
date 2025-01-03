@@ -1,5 +1,5 @@
 # Jason Handrahan
-## jphandrahan@quinnipiac.edu  ▪ jasonhandrahan8@gmail.com ▪  Braintree, MA 	▪  617-306-6606 ▪ LinkedIn  ▪  GitHub
+## jphandrahan@quinnipiac.edu  ▪ jasonhandrahan8@gmail.com ▪  Braintree, MA 	▪  617-306-6606 ▪ [LinkedIn](https://www.linkedin.com/in/jason-handrahan-9a264a333/)  ▪  [GitHub](https://github.com/jason-handrahan)
 
 # EDUCATION:
 ## Quinnipiac University	
